@@ -1,0 +1,16 @@
+{"prompt": "Connect AC.<image>", "images_i": ["images/0000-0000.png"], "response": "<image>", "images_o": ["images/0000-0001.png"]}
+{"prompt": "From point A, draw AG perpendicular to BC at point G.<image>", "images_i": ["images/0001-0000.png"], "response": "<image>", "images_o": ["images/0001-0001.png"]}
+{"prompt": "Draw BF perpendicular to OA at point F.<image>", "images_i": ["images/0002-0000.png"], "response": "<image>", "images_o": ["images/0002-0001.png"]}
+{"prompt": "From point F, draw FG perpendicular to AB at point G.<image>", "images_i": ["images/0003-0000.png"], "response": "<image>", "images_o": ["images/0003-0001.png"]}
+{"prompt": "Connect BD.<image>", "images_i": ["images/0004-0000.png"], "response": "<image>", "images_o": ["images/0004-0001.png"]}
+{"prompt": "Connect PQ.<image>", "images_i": ["images/0005-0000.png"], "response": "<image>", "images_o": ["images/0005-0001.png"]}
+{"prompt": "Connect BD.<image>", "images_i": ["images/0006-0000.png"], "response": "<image>", "images_o": ["images/0006-0001.png"]}
+{"prompt": "Connect DH.<image>", "images_i": ["images/0007-0000.png"], "response": "<image>", "images_o": ["images/0007-0001.png"]}
+{"prompt": "Connect DE.<image>", "images_i": ["images/0008-0000.png"], "response": "<image>", "images_o": ["images/0008-0001.png"]}
+{"prompt": "Connect DE.<image>", "images_i": ["images/0009-0000.png"], "response": "<image>", "images_o": ["images/0009-0001.png"]}
+{"prompt": "From point E, draw EM perpendicular to BF at point M.<image>", "images_i": ["images/0010-0000.png"], "response": "<image>", "images_o": ["images/0010-0001.png"]}
+{"prompt": "Connect OC.<image>", "images_i": ["images/0011-0000.png"], "response": "<image>", "images_o": ["images/0011-0001.png"]}
+{"prompt": "Connect ME and MD.<image>", "images_i": ["images/0012-0000.png"], "response": "<image>", "images_o": ["images/0012-0001.png"]}
+{"prompt": "Connect BD.<image>", "images_i": ["images/0013-0000.png"], "response": "<image>", "images_o": ["images/0013-0001.png"]}
+{"prompt": "Take the midpoint O of BE, and connect AO.<image>", "images_i": ["images/0014-0000.png"], "response": "<image>", "images_o": ["images/0014-0001.png"]}
+{"prompt": "Extend AE and BC to intersect at point F.<image>", "images_i": ["images/0015-0000.png"], "response": "<image>", "images_o": ["images/0015-0001.png"]} 

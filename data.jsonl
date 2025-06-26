@@ -1,0 +1,16 @@
+{"prompt": "连接 AC.<image>", "images_i": ["images/0000-0000.png"], "response": "<image>", "images_o": ["images/0000-0001.png"]}
+{"prompt": "过点 A 作 AG 垂直BC 于点 G.<image>", "images_i": ["images/0001-0000.png"], "response": "<image>", "images_o": ["images/0001-0001.png"]}
+{"prompt": "作 BF 垂直 OA 于点 F.<image>", "images_i": ["images/0002-0000.png"], "response": "<image>", "images_o": ["images/0002-0001.png"]}
+{"prompt": "过点 F 作 FG 垂直 AB 于点 G.<image>", "images_i": ["images/0003-0000.png"], "response": "<image>", "images_o": ["images/0003-0001.png"]}
+{"prompt": "连接 BD.<image>", "images_i": ["images/0004-0000.png"], "response": "<image>", "images_o": ["images/0004-0001.png"]}
+{"prompt": "连接 PQ.<image>", "images_i": ["images/0005-0000.png"], "response": "<image>", "images_o": ["images/0005-0001.png"]}
+{"prompt": "连接 BD.<image>", "images_i": ["images/0006-0000.png"], "response": "<image>", "images_o": ["images/0006-0001.png"]}
+{"prompt": "连接 DH.<image>", "images_i": ["images/0007-0000.png"], "response": "<image>", "images_o": ["images/0007-0001.png"]}
+{"prompt": "连接 DE.<image>", "images_i": ["images/0008-0000.png"], "response": "<image>", "images_o": ["images/0008-0001.png"]}
+{"prompt": "连接 DE.<image>", "images_i": ["images/0009-0000.png"], "response": "<image>", "images_o": ["images/0009-0001.png"]}
+{"prompt": "过点 E 作 EM 垂直 BF 于点 M.<image>", "images_i": ["images/0010-0000.png"], "response": "<image>", "images_o": ["images/0010-0001.png"]}
+{"prompt": "连接 OC.<image>", "images_i": ["images/0011-0000.png"], "response": "<image>", "images_o": ["images/0011-0001.png"]}
+{"prompt": "连接 ME,MD.<image>", "images_i": ["images/0012-0000.png"], "response": "<image>", "images_o": ["images/0012-0001.png"]}
+{"prompt": "连接 BD.<image>", "images_i": ["images/0013-0000.png"], "response": "<image>", "images_o": ["images/0013-0001.png"]}
+{"prompt": "取 BE 的中点 O,连接 AO.<image>", "images_i": ["images/0014-0000.png"], "response": "<image>", "images_o": ["images/0014-0001.png"]}
+{"prompt": "延长 AE,BC交于点 F.<image>", "images_i": ["images/0015-0000.png"], "response": "<image>", "images_o": ["images/0015-0001.png"]} 
